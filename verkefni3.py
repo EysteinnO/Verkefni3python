@@ -24,8 +24,6 @@ kt3 = str(ktsum3)
 @route('/')
 def index():
     return "<div><h1> Verkefni 3 </h1><ul style='list-style-type:square'><li><p>Gunnar Gunnarsson</p><a href='/sida/sida1'>",ktliststring1,"</a></li><li><p>Jón Jónsson</p><a href='/sida/sida2'>",ktliststring2,"</a></li><li><p>Jónatan Jónatansson</p><a href='/sida/sida3'>",ktliststring3,"</a></li></li></ul></div>"      
-
-
     
 
 @route('/sida/<id>')
