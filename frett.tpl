@@ -18,6 +18,7 @@
 <li><a href="/frett/0">Stórhríð og stormur í vændum</a></li><br>
 <li><a href="/frett/1">Ók á mann og sparkaði í hann</a></li><br>
 <li><a href="/frett/2">Hér er pláss fyr­ir miklu fleiri</a></li><br>
+<li><a href="/frett/3">Greip í tómt í apó­tek­inu</a></li>
   </ul>
 </nav>
 
@@ -28,6 +29,7 @@
 {{f[nr][2]}}
 
 <div class="container">
+<img src="/staticskrar/{{f[nr][3]}}">
 </div>
 
 
