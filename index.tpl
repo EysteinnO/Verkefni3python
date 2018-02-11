@@ -6,17 +6,28 @@
 </head>
 
 <body>
-<div class="right">
-<a href="/frett/0">Stórhríð og stormur í vændum</a>
-<a href="/frett/1">Ók á mann og sparkaði í hann</a>
-<a href="/frett/2">Hér er pláss fyr­ir miklu fleiri</a>
-<a href="/frett/3">Greip í tómt í apó­tek­inu</a>
-</div>
-<div>
-<h1> Fréttir </h1>
-<p>Stór­hríð og storm­ur í vænd­um</p>
-<img src="/staticskrar/stormur.jpg">
-	</div>
 
+<div class="container">
+
+<header>
+   <h1>Fréttasíða Eysteins</h1>
+</header>
+  
+<nav>
+  <ul style="list-style-type:disc">
+<li><a href="/frett/0">Stórhríð og stormur í vændum</a></li><br>
+<li><a href="/frett/1">Ók á mann og sparkaði í hann</a></li><br>
+<li><a href="/frett/2">Hér er pláss fyr­ir miklu fleiri</a></li><br>
+<a href="/frett/3">Greip í tómt í apó­tek­inu</a>
+  </ul>
+</nav>
+
+<article>
+
+</article>
+
+<footer>Fréttasíða</footer>
+
+</div>
 </body>
 </html>
