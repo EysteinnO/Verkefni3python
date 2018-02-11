@@ -25,4 +25,5 @@ def index(id):
 def villa(error):
     return "<br><h1>Þessi síða er ekki til</h1>"
 
-run()
+#run()
+run(host='0.0.0.0', port=os.environ.get('PORT'))
